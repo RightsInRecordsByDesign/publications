@@ -8,7 +8,7 @@ For more information, please contact
 
 [Joanne Evans](mailto:joanne.evans@monash.edu)
 
-[Gregory Rolan](greg.rolan@monash.edu)
+[Gregory Rolan](mailto:greg.rolan@monash.edu)
 
 ![logo](./RiRbD-Logo.png)
 
