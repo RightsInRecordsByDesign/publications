@@ -7,7 +7,8 @@ Each sub-directory contains a metadata statement and a publicly shareable versio
 For more information, please contact 
 
 [Joanne EVans](mailto:joanne.evans@monash.edu)
+
 [Gregory Rolan](mailto:greg.rolan@monash.edu)
 
-![logo](./RIGHTS-RECORDS-CMYK-Small(Screen).png)
+![logo](./RoRbD-Logo.png)
 https://rights-records.it.monash.edu/research-development-agenda/rights-in-records-by-design/
