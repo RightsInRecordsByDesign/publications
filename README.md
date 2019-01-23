@@ -11,4 +11,5 @@ For more information, please contact
 [Gregory Rolan](mailto:greg.rolan@monash.edu)
 
 ![logo](./RiRbD-Logo.png)
+
 https://rights-records.it.monash.edu/research-development-agenda/rights-in-records-by-design/
