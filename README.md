@@ -9,5 +9,5 @@ For more information, please contact
 [Joanne EVans](mailto:joanne.evans@monash.edu)
 [Gregory Rolan](mailto:greg.rolan@monash.edu)
 
-./RIGHTS-RECORDS-CMYK-Small(Screen).png
+![logo](./RIGHTS-RECORDS-CMYK-Small(Screen).png)
 https://rights-records.it.monash.edu/research-development-agenda/rights-in-records-by-design/
