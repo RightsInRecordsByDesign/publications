@@ -1,9 +1,6 @@
 # Weapons of Affect The Imperative for Transdisciplinary Information Systems Design 
 
-Gregory Rolan, Joanne Evans, Jane Bone, Antonia Lewis, Frank Golding, Jacqueline Wilson, Sue McKemmish, Philip Mendes, and Keir Reeves 
-
-(2018) In Building And Sustaining An Ethical Future With Emerging Technology: Proceedings of the ASIS&T 81st Annual Meeting (pp. 420–429). Vancouver: Association for Information Science and Technology.
-
+Rolan, G., Evans, J., Bone, J., Lewis, A., Golding, F., Wilson, J. Z., McKemmish, S., Mendes, P., & Reeves, K. (2018). Weapons of Affect: the imperative for transdisciplinary Information Systems design. In _Building And Sustaining An Ethical Future With Emerging Technology: Proceedings of the ASIS&T 81st Annual Meeting_ (pp. 420–429). Vancouver: Association for Information Science and Technology.
 
 Gregory Rolan \
 Monash University, Australia. \

@@ -1,8 +1,6 @@
 # Critical Approaches to Archiving and Recordkeeping in the Continuum. 
 
- Joanne Evans, Sue McKemmish, and Gregory Rolan.
-
-(2017) _Journal of Critical Library and Information Studies_, 1(2). Retrieved from http://libraryjuicepress.com/journals/index.php/jclis/article/view/35/29
+McKemmish, S., Evans, J., & Rolan, G. (2017) Critical Approaches to Archiving and Recordkeeping in the Continuum. _Journal of Critical Library and Information Studies_, 1(2). https://doi.org/10.24242/jclis.v1i2.35
 
 Joanne Evans \
 Monash University, Australia. \
@@ -27,3 +25,6 @@ The _Rights in Records by Design Project_ is funded through an Australian Resear
 Associate Professor Joanne Evans is the recipient of ARC Future Fellowship FT140100073 Connecting the Disconnected: Co-Designing Inclusive Archival and Recordkeeping Systems. 
 
 We would also like to acknowledge the contributions of all those involved in the Setting the Record Straight for the Rights on the Child Initiative, and at the May 2017 Summit, to the development of the National Framework for Childhood Out-of-Home Care.
+
+
+OI: 10.24242/jclis.v1i2.35.ISSN: 2572-1364ArticleCritical   Approaches   to   Archiving   and Recordkeeping in the ContinuumJoanne Evans, Sue McKemmish,and Greg RolanABSTRACTRecords Continuum scholarship is increasingly engaging with critical and participatory approaches to research and practice, “questioning the social constructs, values and power  differentials  embedded  in  current  recordkeeping  infrastructure  exploring archival  and  recordkeeping  agency,  autonomy  and  activism,  andmoving  beyond insight and critique with the aim of bringing about transformative outcomes.”1In this paper, we identify the key characteristics of these approaches with reference to the suite  of  research  projects  that  make  up  the Archives  and  the  Rights  of  the  Child program.  We  explore  how Records  Continuum,  theory,  models  and  constructs complement, frame, and support critical archiving and recordkeeping theorizing and practice.We propose an expansive definition of critical archiving and recordkeeping; onethatmoves  beyond  academy-centred,  normative  critiquesand  goal-setting  to embrace  transformative,  participatory  research  and  practice,  which  is  particularly relevant  to  the  integrated  archiving  and  recordkeeping  needs  of  individuals  and communities.  1Sue McKemmish, “Recordkeeping in the Continuum: An Australian Tradition,” in Research in the Archival Multiverse,ed. Anne Gilliland, Sue McKemmish and Andrew Lau (Melbourne, Australia: Monash University Publishing, 2016), 122-160. 
