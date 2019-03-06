@@ -3,7 +3,7 @@
 Wilson, J. Z., & Golding, F. (2018). The tacit semantics of ‘Loud Fences’: tracing the connections between activism, heritage and new histories. International Journal of Heritage Studies, 24(8), 861–873. https://doi.org/10.1080/13527258.2017.1325767
 
 Jacqueline Wilson \
-Federation University, Australia.\ 
+Federation University, Australia. \
 jz.wilson@federation.edu.au 
 
 Frank Golding \

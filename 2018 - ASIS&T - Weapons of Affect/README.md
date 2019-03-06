@@ -23,7 +23,7 @@ Care Leavers Australia Network. \
 fgolding@bigpond.net.au 
 
 Jacqueline Wilson \
-Federation University, Australia.\ 
+Federation University, Australia. \
 jz.wilson@federation.edu.au 
 
 Sue McKemmish \
