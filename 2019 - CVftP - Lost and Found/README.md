@@ -1,6 +1,6 @@
-# The tacit semantics of ‘Loud Fences’: tracing the connections between activism, heritage and new histories
+# Lost and Found: Counter Narratives of Dis/located families
 
-Golding, F., & Wilson, J. Z. (Forthcoming). Lost and Found: Counter Narratives of Dislocated families. In N. Musgrove & K. Moruzi (Eds.), _Children's Voices from the Past_. Palgrave Macmillan.
+Golding, F., & Wilson, J. Z. (Forthcoming). Lost and Found: Counter Narratives of Dis/located families. In N. Musgrove & K. Moruzi (Eds.), _Children's Voices from the Past_. Palgrave Macmillan.
 
 Frank Golding \
 Care Leavers Australia Network. \
