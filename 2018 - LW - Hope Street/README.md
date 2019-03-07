@@ -1,6 +1,6 @@
 # Hope Street: From Voice to Agency for Care-Leavers in Higher Education
 
-Wilson, J. Z., Mendes, P., & Golding, F. (2018). Hope Street: From Voice to Agency for Care-Leavers in Higher Education. Life Writing, 15(4), 597–609. https://doi.org/10.1080/14484528.2018.1427420
+Wilson, J. Z., Mendes, P., & Golding, F. (2018). Hope Street: From Voice to Agency for Care-Leavers in Higher Education. _Life Writing_, 15(4), 597–609. https://doi.org/10.1080/14484528.2018.1427420
 
 Jacqueline Wilson \
 Federation University, Australia. \
