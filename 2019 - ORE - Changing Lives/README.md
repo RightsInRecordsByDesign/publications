@@ -1,18 +1,22 @@
 # Changing Lives: Improving Care Leaver Access to Higher Education in Australia
 
-Wilson, J. Z., Harvey, A., & Mendes, P. (Forthcoming). Changing Lives: Improving Care Leaver Access to Higher Education in Australia. _Oxford Review of Education_.
+Wilson, J. Z., Harvey, A., & Mendes, P. (Forthcoming). Changing Lives: Improving Care Leaver Access to Higher Education in Australia. _Oxford Review of Education (Special Edition: Care leavers transitioning to Higher Education)_.
 
 Jacqueline Wilson \
 Federation University, Australia. \
 jz.wilson@federation.edu.au 
 
-A Harvey 
+Andrew Harvey \
+La Trobe University, Australia. \
+Andrew.Harvey@latrobe.edu.au
 
 Philip Mendes \
 Monash University, Australia. \
 philip.mendes@monash.edu 
 
 # Abstract 
+
+Australian and international research evidence documents the limited access of young people transitioning from out-of-home care (OOHC) to further and higher education. This paper examines the processes, outcomes and key findings of the Raising Expectations project, which involved a collaborative university and industry approach to promote higher education among care leavers at two Australian universities. The project involved consultations with students who had experienced out of home care and reported having met numerous systemic challenges in both the education sector and the welfare/care system that prevented or delayed their advent into higher education. The findings reiterate the importance of policy and practice reforms that target those in or transitioning from OOHC.
 
 # Acknowledgments
 
