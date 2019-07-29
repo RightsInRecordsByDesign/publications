@@ -1,6 +1,6 @@
 # Changing Lives: Improving Care Leaver Access to Higher Education in Australia
 
-Wilson, J. Z., Harvey, A., & Mendes, P. (Forthcoming). Changing Lives: Improving Care Leaver Access to Higher Education in Australia. _Oxford Review of Education (Special Edition: Care leavers transitioning to Higher Education)_.
+Wilson, J. Z., Harvey, A., & Mendes, P. (2019). Changing Lives: Improving Care Leaver Access to Higher Education in Australia. _Oxford Review of Education (Special Edition: Care leavers transitioning to Higher Education)_ 45(4),  573-586.
 
 Jacqueline Wilson \
 Federation University, Australia. \
