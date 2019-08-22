@@ -1,6 +1,6 @@
 # Decolonizing Recordkeeping and Archival Praxis in Childhood Out-of-Home-Care and Indigenous Archival Collections
 
-McKemmish, S., Bone, J., Evans, J., Golding, F., Lewis, A., Rolan, G., Thorpe, K., & Wilson, J. (2019 Forthcoming) Decolonizing Recordkeeping and Archival Praxis in Childhood Out-of-Home-Care and Indigenous Archival Collections, _Archival Science_
+McKemmish, S., Bone, J., Evans, J., Golding, F., Lewis, A., Rolan, G., Thorpe, K., & Wilson, J. (2019) Decolonizing Recordkeeping and Archival Praxis in Childhood Out-of-Home-Care and Indigenous Archival Collections, _Archival Science_
 
 Sue McKemmish \
 Monash University, Australia \
