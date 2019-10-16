@@ -1,6 +1,6 @@
 # Lost and Found: Counter Narratives of Dis/located families
 
-Golding, F., & Wilson, J. Z. (Forthcoming). Lost and Found: Counter Narratives of Dis/located families. In N. Musgrove & K. Moruzi (Eds.), _Children's Voices from the Past_. Palgrave Macmillan.
+Golding, F., & Wilson, J. Z. (2019). Lost and Found: Counter Narratives of Dis/located families. In N. Musgrove & K. Moruzi (Eds.), _Children's Voices from the Past_. Palgrave Macmillan.
 
 Frank Golding \
 Care Leavers Australia Network. \
