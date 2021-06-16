@@ -30,7 +30,7 @@ Siobhan Altham
 Federation University Australia \
 siobahn.altham@cafs.org.au
 
-# Abstract 
+# Abstract
 
 Worldwide inquiries into childhood institutionalization repeatedly document systemic and enduring problems with fractured and fragmented recordkeeping and archiving systems that put the protection of organizations and institutions ahead of the safety and wellbeing of those in their care. As importantly, they demonstrate how much recordkeeping matters in people’s lives and the role that records play in developing and nurturing identity, connection to family, community, and culture, and as instruments of accountability, restitution, and redress. They highlight the transdisciplinarity inherent in recordkeeping endeavours, and for research and praxis in child welfare and protection to transcend disciplinary, professional, and community boundaries to ensure that systems created to protect children from neglect and abuse do not themselves cause harm. In this article we explore the transformative justice approach of the Archives and the Rights of the Child Research Programme, that, through transdisciplinary collaborations investigating rights-based recordkeeping, aims to advance archival autonomy, the ability of individuals and communities to participate in organizational and societal evidence and memory structures with their own voice. This broad re-imagining of recordkeeping is vital if we are to escape endless cycles of ambiguous and disappointing transitional justice outcomes, through recognizing voice and agency in recordkeeping as a human right.
 
