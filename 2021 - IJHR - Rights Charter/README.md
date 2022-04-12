@@ -1,4 +1,4 @@
-# Decolonizing Recordkeeping and Archival Praxis in Childhood Out-of-Home-Care and Indigenous Archival Collections
+# Rights in Records: A Charter of Lifelong Rights in Childhood Recordkeeping in Out-of-Home Care for Australian and Indigenous Australian Children and Care Leavers
 
 Golding, F., Lewis, A., McKemmish, S., Rolan, G., & Thorpe, K. (2021). Rights in Records: A Charter of Lifelong Rights in Childhood Recordkeeping in Out-of-Home Care for Australian and Indigenous Australian Children and Care Leavers, _International Journal of Human Rights_.
 
